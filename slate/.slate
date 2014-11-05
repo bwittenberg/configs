@@ -5,3 +5,6 @@ bind left:ctrl;alt;cmd	push	left	bar-resize:screenSizeX/2
 
 # Throw
 bind m:ctrl;alt;cmd	throw	0	resize
+
+# Undo
+bind u:ctrl;alt;cmd	undo
